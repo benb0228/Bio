@@ -7,7 +7,7 @@ width: 50%; /* for IE 6 */
 p
 { 
 position: absolute; /* To place the text on the image*/
-top: 200px; /* The exact location of the text from the top of the image*/
+top: 50px; /* The exact location of the text from the top of the image*/
 left: 0; /* Other beautification stuff */
 width: 100%; 
 }
