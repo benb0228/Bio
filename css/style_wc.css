@@ -1,29 +1,13 @@
-body {
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),
-    background-image:url('../img/mountain_background.jpg');
-  background-size: cover;
-  font-family: 'Source Sans Pro', sans-serif;
-}
+.image 
+{ 
+position: relative; /* To help the image + text element to get along with the rest of the page*/ 
+width: 50%; /* for IE 6 */ 
+} 
 
-header {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  text-align: center;
-}
-h4 {
-  text-transform: uppercase;
-  margin: 0;
-  font-size: 3rem;
-  white-space: nowrap;
-}
-p2 {
-  margin: 0;
-  font-size: 1.5rem;
+p
+{ 
+position: absolute; /* To place the text on the image*/
+top: 200px; /* The exact location of the text from the top of the image*/
+left: 0; /* Other beautification stuff */
+width: 100%; 
 }
