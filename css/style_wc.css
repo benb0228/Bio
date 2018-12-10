@@ -2,7 +2,6 @@
 { 
 position: relative; /* To help the image + text element to get along with the rest of the page*/ 
 width: 50%; /* for IE 6 */ 
-filter:opacity(30%);
 } 
 
 p
