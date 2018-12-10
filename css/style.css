@@ -50,9 +50,6 @@ h4{font-weight:300;font-size: 30px;line-height:38px;margin-bottom:20px;font-weig
 .connect-icon a.behance{margin-top: -10px;}
 .prof-links{margin: 250px 0 50px 0;}
 
-.WCProjects {margin:50;background-color:#D3D3D3;}
-.WCProjects p2 {font-size:20px;margin-bottom:200px;padding:50px 75px 50px 75px}
-
 .portfolio ul li{position: relative;}
 .portfolio ul li .overlay{display: none;position: absolute;top: 0; right: 0; left: 0; bottom: 0; background:rgba(0,0,0,0.5); margin: 7px;}
 .portfolio ul li:hover .overlay{display: block;}
